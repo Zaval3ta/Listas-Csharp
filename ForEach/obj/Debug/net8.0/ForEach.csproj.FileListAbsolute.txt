@@ -1,0 +1,14 @@
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\Listas\ForEach\obj\Debug\net8.0\ref\ForEach.dll

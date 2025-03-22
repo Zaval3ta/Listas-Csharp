@@ -1,0 +1,14 @@
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\bin\Debug\net8.0\MetodosComunes.exe
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\bin\Debug\net8.0\MetodosComunes.deps.json
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\bin\Debug\net8.0\MetodosComunes.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\bin\Debug\net8.0\MetodosComunes.dll
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\bin\Debug\net8.0\MetodosComunes.pdb
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.dll
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\refint\MetodosComunes.dll
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.pdb
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\MetodosComunes.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\Listas\MetodosComunes\obj\Debug\net8.0\ref\MetodosComunes.dll
